@@ -1,6 +1,6 @@
 This is the professional professional profile of Dr. Cynthia V. Marcello, owner of CVM Computing Solutions.
 - I am a data scientist specializing in machine learning algorithms used to solve business problems for organizations.
-- Specifically, my company provides data analytics and data science services that use organization and big data to provide insight into various aspects of my clients' businesses.
+- Specifically, my company provides data analytics and data science services that use organization and big data to provide insight into various aspects of my clients' businesses and organizations.
 - Examples of business problems that can be addressed with data science are listed below, but it is important to note that this is not an exhaustive list.
 ---
 
